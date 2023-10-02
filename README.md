@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kushal7201&theme=nightowl&hide_border=false)
 
 # New
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal7201&theme=nightowl&hide_border=false" alt="Your Image" style="width: 100%; height: auto;"><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal7201&theme=nightowl&hide_border=false" alt="Your Image" style="width: 100%; height: 100em;"><br/>
 <a href="https://github.com/kushal7201">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
