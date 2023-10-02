@@ -5,9 +5,8 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=kushal7201&theme=nightowl&hide_border=false)<br/>
-<span>
-<img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1"></span>
-<span>
-<img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
+
+<span><img style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal7201&theme=nightowl&hide_border=false" alt="Image 1"></span>
+<span><img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1"></span>
+<span><img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
 
