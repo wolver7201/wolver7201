@@ -8,3 +8,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kushal7201&theme=nightowl&hide_border=false)
+
+# New
+
+<a href="https://github.com/Manas2403">
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kushal7201&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=kushal7201&theme=chartreuse-dark">
+  
+</a>
