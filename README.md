@@ -9,5 +9,5 @@
 [![My Skills](https://github-readme-streak-stats.herokuapp.com/?user=kushal7201&theme=dark&hide_border=false)
 
 # 📊 GitHub Stats:
-<span><img style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
+<span><img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image 2"></span>
 <span><img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=kushal7201&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="Image 1"></span>
